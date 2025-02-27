@@ -1,7 +1,7 @@
 # Author: tr00ls
-# Description: A Python program that simulates a simple login system, that stores created username and password as variables, and gives you 3 tries to log in, with you newly created credentials!
+# Description: A Python program that simulates a simple login system, that stores created username and password as variables, and gives you 3 tries to log in, with your newly created credentials!
 # This was pretty fun and a little hard to make! I made this as a part of a challenge while learning Python :)
-# There built-in are conditions for username and password strength, though it would be possible to ennumerate usernames, from the error messages in the login section.
+# There are built-in are conditions for username and password strength, though it would be possible to ennumerate usernames, from the error messages in the login section.
 
 import string
 
