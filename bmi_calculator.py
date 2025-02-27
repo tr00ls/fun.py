@@ -1,3 +1,6 @@
+# Author: tr00ls
+# Description: A script i made as a challenge, that calculates your BMI. It converts Pounds/Kilograms and Feet/Inches/Centimeters, depending on your input.
+
 print("This program lets you calculate your BMI, by entering your height and weight")
 error_message = "Something went wrong, please try again"
 
