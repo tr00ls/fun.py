@@ -1,3 +1,8 @@
+# Author: tr00ls
+# Description: A script that sells you the correct tickets to a themepark, depending on your age. I made this as a challenge, while learning about conditionial expressions.
+# A part of the challenge was to make the content of line 20 a one-liner.
+
+
 child_ticket = 10
 normal_ticket = 20
 senior_ticket = 15
